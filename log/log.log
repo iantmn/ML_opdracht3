@@ -1,0 +1,248 @@
+[WARNING] | 14:50:22 19-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 14:52:31 19-Mar-22 | main.py:427 | Time to run: 129.18932795524597
+[WARNING] | 16:07:55 21-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 16:09:15 21-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 16:09:24 21-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 16:13:36 21-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 16:42:23 21-Mar-22 | main.py:426 | Time to run: 1727.7013499736786
+[WARNING] | 09:10:25 22-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 09:12:46 22-Mar-22 | main.py:426 | Time to run: 141.20044875144958
+[WARNING] | 09:15:27 22-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 09:17:13 22-Mar-22 | main.py:425 | Time to run: 105.95426535606384
+[WARNING] | 19:38:06 23-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 19:39:56 23-Mar-22 | main.py:426 | Time to run: 110.7573835849762
+[WARNING] | 16:01:29 24-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 16:03:29 24-Mar-22 | main.py:426 | Time to run: 119.56921005249023
+[WARNING] | 12:21:27 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:22:12 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:23:11 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:23:44 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:24:36 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:27:05 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:27:43 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:32:32 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:34:47 25-Mar-22 | main.py:426 | Time to run: 134.97232818603516
+[WARNING] | 13:11:39 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:12:17 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:14:54 25-Mar-22 | main.py:427 | Time to run: 157.25011825561523
+[WARNING] | 13:16:15 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:16:58 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:17:44 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:19:24 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:22:06 25-Mar-22 | main.py:426 | Time to run: 162.64147973060608
+[WARNING] | 13:22:33 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:22:36 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:25:22 25-Mar-22 | main.py:426 | Time to run: 165.68906331062317
+[WARNING] | 13:29:24 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:29:27 25-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:32:19 25-Mar-22 | main.py:426 | Time to run: 172.0192039012909
+[WARNING] | 12:32:04 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:34:19 30-Mar-22 | main.py:428 | Time to run: 135.40493392944336
+[WARNING] | 12:35:40 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:59:11 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:01:14 30-Mar-22 | main.py:428 | Time to run: 122.27490496635437
+[WARNING] | 13:21:18 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:40:26 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:42:45 30-Mar-22 | main_repeat.py:432 | Time to run: 138.9966721534729
+[WARNING] | 13:42:45 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:45:15 30-Mar-22 | main_repeat.py:432 | Time to run: 149.56163954734802
+[WARNING] | 13:45:15 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:47:51 30-Mar-22 | main_repeat.py:432 | Time to run: 156.74270820617676
+[WARNING] | 13:47:51 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:50:38 30-Mar-22 | main_repeat.py:432 | Time to run: 166.73514795303345
+[WARNING] | 13:50:38 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:53:32 30-Mar-22 | main_repeat.py:432 | Time to run: 173.77386212348938
+[WARNING] | 13:53:32 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:56:34 30-Mar-22 | main_repeat.py:432 | Time to run: 182.36212277412415
+[WARNING] | 13:56:34 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 13:59:35 30-Mar-22 | main_repeat.py:432 | Time to run: 181.27566695213318
+[WARNING] | 13:59:35 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 14:02:43 30-Mar-22 | main_repeat.py:432 | Time to run: 187.18052983283997
+[WARNING] | 14:02:43 30-Mar-22 | main_repeat.py:49 | START PROGRAM
+[WARNING] | 14:05:49 30-Mar-22 | main_repeat.py:432 | Time to run: 186.46621680259705
+[WARNING] | 14:12:38 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 14:45:42 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 14:46:24 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 14:47:28 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 14:48:39 30-Mar-22 | main.py:47 | START PROGRAM
+[WARNING] | 15:01:37 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:05:45 30-Mar-22 | main_repeat.py:433 | Time to run: 248.20331811904907
+[WARNING] | 15:05:45 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:08:53 30-Mar-22 | main_repeat.py:433 | Time to run: 188.1237289905548
+[WARNING] | 15:08:53 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:11:48 30-Mar-22 | main_repeat.py:433 | Time to run: 174.21130561828613
+[WARNING] | 15:11:48 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:14:29 30-Mar-22 | main_repeat.py:433 | Time to run: 161.41895747184753
+[WARNING] | 15:14:29 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:17:03 30-Mar-22 | main_repeat.py:433 | Time to run: 153.93280935287476
+[WARNING] | 15:17:03 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:19:31 30-Mar-22 | main_repeat.py:433 | Time to run: 148.37353229522705
+[WARNING] | 15:19:31 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:22:02 30-Mar-22 | main_repeat.py:433 | Time to run: 150.6413917541504
+[WARNING] | 15:22:02 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:24:33 30-Mar-22 | main_repeat.py:433 | Time to run: 150.9872326850891
+[WARNING] | 15:24:33 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:26:59 30-Mar-22 | main_repeat.py:433 | Time to run: 145.75229716300964
+[WARNING] | 15:26:59 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 15:29:24 30-Mar-22 | main_repeat.py:433 | Time to run: 144.99243807792664
+[WARNING] | 17:26:29 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:27:26 30-Mar-22 | main_repeat.py:433 | Time to run: 57.719674587249756
+[WARNING] | 17:27:26 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:29:03 30-Mar-22 | main_repeat.py:433 | Time to run: 96.54571866989136
+[WARNING] | 17:29:03 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:31:35 30-Mar-22 | main_repeat.py:433 | Time to run: 151.6927342414856
+[WARNING] | 17:31:35 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:34:52 30-Mar-22 | main_repeat.py:433 | Time to run: 196.98443293571472
+[WARNING] | 17:34:52 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:39:00 30-Mar-22 | main_repeat.py:433 | Time to run: 248.58647894859314
+[WARNING] | 17:39:00 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:44:08 30-Mar-22 | main_repeat.py:433 | Time to run: 307.4330253601074
+[WARNING] | 17:44:08 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:49:56 30-Mar-22 | main_repeat.py:433 | Time to run: 348.9020302295685
+[WARNING] | 17:49:56 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 17:56:37 30-Mar-22 | main_repeat.py:433 | Time to run: 400.9318070411682
+[WARNING] | 17:56:37 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 18:04:02 30-Mar-22 | main_repeat.py:433 | Time to run: 444.4452350139618
+[WARNING] | 18:04:02 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 18:12:28 30-Mar-22 | main_repeat.py:433 | Time to run: 506.2245409488678
+[WARNING] | 18:12:28 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 18:21:42 30-Mar-22 | main_repeat.py:433 | Time to run: 554.221284866333
+[WARNING] | 18:21:42 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 18:31:57 30-Mar-22 | main_repeat.py:433 | Time to run: 614.3774886131287
+[WARNING] | 18:31:57 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 18:43:02 30-Mar-22 | main_repeat.py:433 | Time to run: 665.0155417919159
+
+
+
+[WARNING] | 19:16:38 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:18:49 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:19:29 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:21:02 30-Mar-22 | main_repeat.py:433 | Time to run: 93.53913474082947
+[WARNING] | 19:21:02 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:22:56 30-Mar-22 | main_repeat.py:433 | Time to run: 113.52985858917236
+[WARNING] | 19:22:56 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:25:00 30-Mar-22 | main_repeat.py:433 | Time to run: 124.1375527381897
+[WARNING] | 19:25:00 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:27:12 30-Mar-22 | main_repeat.py:433 | Time to run: 132.72370076179504
+[WARNING] | 19:27:12 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:29:31 30-Mar-22 | main_repeat.py:433 | Time to run: 138.74769926071167
+[WARNING] | 19:29:31 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:31:49 30-Mar-22 | main_repeat.py:433 | Time to run: 137.93815922737122
+[WARNING] | 19:31:49 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:34:18 30-Mar-22 | main_repeat.py:433 | Time to run: 149.24585795402527
+[WARNING] | 19:34:18 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:37:34 30-Mar-22 | main_repeat.py:433 | Time to run: 196.07108116149902
+[WARNING] | 19:37:34 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:41:25 30-Mar-22 | main_repeat.py:433 | Time to run: 231.10135650634766
+[WARNING] | 19:41:25 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:45:15 30-Mar-22 | main_repeat.py:433 | Time to run: 229.2673454284668
+[WARNING] | 19:45:15 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:49:03 30-Mar-22 | main_repeat.py:433 | Time to run: 228.09980869293213
+[WARNING] | 19:49:03 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:52:47 30-Mar-22 | main_repeat.py:433 | Time to run: 223.96884894371033
+[WARNING] | 19:52:47 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:56:34 30-Mar-22 | main_repeat.py:433 | Time to run: 227.1136441230774
+[WARNING] | 19:56:34 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 19:59:19 30-Mar-22 | main_repeat.py:433 | Time to run: 164.86863899230957
+[WARNING] | 19:59:19 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:01:53 30-Mar-22 | main_repeat.py:433 | Time to run: 153.7456669807434
+[WARNING] | 20:01:53 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:04:21 30-Mar-22 | main_repeat.py:433 | Time to run: 148.261549949646
+[WARNING] | 20:04:21 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:06:48 30-Mar-22 | main_repeat.py:433 | Time to run: 147.27221202850342
+[WARNING] | 20:06:48 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:09:13 30-Mar-22 | main_repeat.py:433 | Time to run: 144.73920607566833
+[WARNING] | 20:09:13 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:11:39 30-Mar-22 | main_repeat.py:433 | Time to run: 146.44991874694824
+[WARNING] | 20:11:39 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:14:03 30-Mar-22 | main_repeat.py:433 | Time to run: 143.86502361297607
+[WARNING] | 20:14:03 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:16:27 30-Mar-22 | main_repeat.py:433 | Time to run: 143.77328491210938
+[WARNING] | 20:16:27 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:18:47 30-Mar-22 | main_repeat.py:433 | Time to run: 139.68428826332092
+[WARNING] | 20:18:47 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:21:07 30-Mar-22 | main_repeat.py:433 | Time to run: 140.89273309707642
+[WARNING] | 20:21:07 30-Mar-22 | main_repeat.py:48 | START PROGRAM
+[WARNING] | 20:23:26 30-Mar-22 | main_repeat.py:433 | Time to run: 138.61092853546143
+[WARNING] | 12:14:30 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:15:39 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:16:34 01-Apr-22 | main.py:431 | Time to run: 54.90365433692932
+[WARNING] | 12:17:48 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:18:48 01-Apr-22 | main.py:431 | Time to run: 60.234713554382324
+[WARNING] | 12:54:41 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 12:55:42 01-Apr-22 | main.py:431 | Time to run: 61.19405651092529
+[WARNING] | 13:23:46 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:24:40 01-Apr-22 | main.py:431 | Time to run: 54.228434801101685
+[WARNING] | 13:24:52 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:25:27 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:26:49 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:28:10 01-Apr-22 | main.py:431 | Time to run: 80.32234001159668
+[WARNING] | 13:33:50 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:38:43 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 13:40:11 01-Apr-22 | main.py:431 | Time to run: 87.5705795288086
+[WARNING] | 14:29:15 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:21 01-Apr-22 | main_retrain.py:419 | Time to run: 6.353748559951782
+[WARNING] | 14:29:21 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:27 01-Apr-22 | main_retrain.py:419 | Time to run: 5.651719331741333
+[WARNING] | 14:29:27 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:32 01-Apr-22 | main_retrain.py:419 | Time to run: 5.549028635025024
+[WARNING] | 14:29:32 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:38 01-Apr-22 | main_retrain.py:419 | Time to run: 5.595566511154175
+[WARNING] | 14:29:38 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:44 01-Apr-22 | main_retrain.py:419 | Time to run: 5.696344375610352
+[WARNING] | 14:29:44 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:49 01-Apr-22 | main_retrain.py:419 | Time to run: 5.662744998931885
+[WARNING] | 14:29:49 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:29:55 01-Apr-22 | main_retrain.py:419 | Time to run: 5.6141438484191895
+[WARNING] | 14:29:55 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:30:29 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:30:36 01-Apr-22 | main_retrain.py:419 | Time to run: 6.348487615585327
+[WARNING] | 14:30:36 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:30:41 01-Apr-22 | main_retrain.py:419 | Time to run: 5.913586378097534
+[WARNING] | 14:30:41 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:30:47 01-Apr-22 | main_retrain.py:419 | Time to run: 5.6750640869140625
+[WARNING] | 14:30:47 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:30:53 01-Apr-22 | main_retrain.py:419 | Time to run: 5.818119764328003
+[WARNING] | 14:30:53 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:30:59 01-Apr-22 | main_retrain.py:419 | Time to run: 5.870790004730225
+[WARNING] | 14:30:59 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:31:05 01-Apr-22 | main_retrain.py:419 | Time to run: 5.819110631942749
+[WARNING] | 14:31:05 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:31:10 01-Apr-22 | main_retrain.py:419 | Time to run: 5.67847752571106
+[WARNING] | 14:31:10 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:31:16 01-Apr-22 | main_retrain.py:419 | Time to run: 5.828777074813843
+[WARNING] | 14:31:16 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:31:22 01-Apr-22 | main_retrain.py:419 | Time to run: 5.686925649642944
+[WARNING] | 14:31:22 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:31:28 01-Apr-22 | main_retrain.py:419 | Time to run: 5.787262678146362
+[WARNING] | 14:33:09 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:33:16 01-Apr-22 | main_retrain.py:420 | Time to run: 6.452509880065918
+[WARNING] | 14:33:16 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:33:21 01-Apr-22 | main_retrain.py:420 | Time to run: 5.587428569793701
+[WARNING] | 14:33:21 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 14:33:27 01-Apr-22 | main_retrain.py:420 | Time to run: 5.487898111343384
+[WARNING] | 14:33:27 01-Apr-22 | main_retrain.py:48 | START PROGRAM
+[WARNING] | 16:50:22 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 16:51:45 01-Apr-22 | main.py:431 | Time to run: 83.63105654716492
+[WARNING] | 17:35:40 01-Apr-22 | main.py:47 | START PROGRAM
+[WARNING] | 17:37:17 01-Apr-22 | main.py:431 | Time to run: 97.0247004032135
+[WARNING] | 18:12:36 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:12:43 01-Apr-22 | main_retrain.py:421 | Time to run: 6.802244663238525
+[WARNING] | 18:12:43 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:12:49 01-Apr-22 | main_retrain.py:421 | Time to run: 6.001220226287842
+[WARNING] | 18:12:49 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:12:54 01-Apr-22 | main_retrain.py:421 | Time to run: 5.689716339111328
+[WARNING] | 18:12:54 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:00 01-Apr-22 | main_retrain.py:421 | Time to run: 5.623854875564575
+[WARNING] | 18:13:00 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:06 01-Apr-22 | main_retrain.py:421 | Time to run: 5.746438026428223
+[WARNING] | 18:13:06 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:11 01-Apr-22 | main_retrain.py:421 | Time to run: 5.677958250045776
+[WARNING] | 18:13:11 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:17 01-Apr-22 | main_retrain.py:421 | Time to run: 5.643322229385376
+[WARNING] | 18:13:17 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:23 01-Apr-22 | main_retrain.py:421 | Time to run: 5.686010360717773
+[WARNING] | 18:13:23 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:28 01-Apr-22 | main_retrain.py:421 | Time to run: 5.626981496810913
+[WARNING] | 18:13:28 01-Apr-22 | main_retrain.py:49 | START PROGRAM
+[WARNING] | 18:13:34 01-Apr-22 | main_retrain.py:421 | Time to run: 5.894995212554932

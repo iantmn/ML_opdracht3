@@ -1,0 +1,1580 @@
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 2
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.82
+average precision: 0.77
+average recall: 0.88
+average accuracy: 0.72
+number of true positives: 7162
+number of false positives: 2054
+number of true negatives: 653
+number of false negatives: 931
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 3
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.82
+average precision: 0.78
+average recall: 0.88
+average accuracy: 0.73
+number of true positives: 7141
+number of false positives: 2007
+number of true negatives: 700
+number of false negatives: 952
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 4
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.74
+average precision: 0.72
+average recall: 0.78
+average accuracy: 0.67
+number of true positives: 5626
+number of false positives: 2070
+number of true negatives: 1589
+number of false negatives: 1515
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 5
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.68
+average precision: 0.69
+average recall: 0.68
+average accuracy: 0.65
+number of true positives: 4330
+number of false positives: 1900
+number of true negatives: 2649
+number of false negatives: 1921
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 6
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.66
+average precision: 0.69
+average recall: 0.64
+average accuracy: 0.66
+number of true positives: 3762
+number of false positives: 1628
+number of true negatives: 3394
+number of false negatives: 2016
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 7
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.63
+average precision: 0.68
+average recall: 0.6
+average accuracy: 0.66
+number of true positives: 3329
+number of false positives: 1540
+number of true negatives: 3807
+number of false negatives: 2124
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 8
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.61
+average precision: 0.67
+average recall: 0.56
+average accuracy: 0.68
+number of true positives: 2811
+number of false positives: 1376
+number of true negatives: 4498
+number of false negatives: 2115
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 9
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.57
+average precision: 0.67
+average recall: 0.5
+average accuracy: 0.7
+number of true positives: 2199
+number of false positives: 1078
+number of true negatives: 5347
+number of false negatives: 2176
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 10
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.55
+average precision: 0.68
+average recall: 0.47
+average accuracy: 0.72
+number of true positives: 1909
+number of false positives: 901
+number of true negatives: 5848
+number of false negatives: 2142
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 11
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.55
+average precision: 0.69
+average recall: 0.46
+average accuracy: 0.74
+number of true positives: 1745
+number of false positives: 774
+number of true negatives: 6234
+number of false negatives: 2047
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 12
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.53
+average precision: 0.7
+average recall: 0.44
+average accuracy: 0.75
+number of true positives: 1557
+number of false positives: 692
+number of true negatives: 6563
+number of false negatives: 1988
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 13
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.52
+average precision: 0.69
+average recall: 0.42
+average accuracy: 0.76
+number of true positives: 1407
+number of false positives: 628
+number of true negatives: 6833
+number of false negatives: 1932
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 14
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.51
+average precision: 0.71
+average recall: 0.4
+average accuracy: 0.78
+number of true positives: 1252
+number of false positives: 552
+number of true negatives: 7154
+number of false negatives: 1842
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 15
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.5
+average precision: 0.71
+average recall: 0.39
+average accuracy: 0.79
+number of true positives: 1169
+number of false positives: 492
+number of true negatives: 7379
+number of false negatives: 1760
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 16
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.49
+average precision: 0.72
+average recall: 0.38
+average accuracy: 0.8
+number of true positives: 1047
+number of false positives: 412
+number of true negatives: 7640
+number of false negatives: 1701
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 17
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.47
+average precision: 0.72
+average recall: 0.36
+average accuracy: 0.81
+number of true positives: 909
+number of false positives: 371
+number of true negatives: 7877
+number of false negatives: 1643
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 18
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.47
+average precision: 0.71
+average recall: 0.36
+average accuracy: 0.83
+number of true positives: 869
+number of false positives: 357
+number of true negatives: 8053
+number of false negatives: 1521
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 19
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.47
+average precision: 0.71
+average recall: 0.36
+average accuracy: 0.83
+number of true positives: 816
+number of false positives: 338
+number of true negatives: 8183
+number of false negatives: 1463
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 20
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.47
+average precision: 0.71
+average recall: 0.36
+average accuracy: 0.84
+number of true positives: 773
+number of false positives: 317
+number of true negatives: 8306
+number of false negatives: 1404
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 21
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.46
+average precision: 0.73
+average recall: 0.34
+average accuracy: 0.85
+number of true positives: 710
+number of false positives: 274
+number of true negatives: 8474
+number of false negatives: 1342
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 22
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.44
+average precision: 0.7
+average recall: 0.33
+average accuracy: 0.85
+number of true positives: 650
+number of false positives: 280
+number of true negatives: 8571
+number of false negatives: 1299
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 23
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.44
+average precision: 0.73
+average recall: 0.33
+average accuracy: 0.86
+number of true positives: 617
+number of false positives: 243
+number of true negatives: 8692
+number of false negatives: 1248
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 24
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.46
+average precision: 0.73
+average recall: 0.34
+average accuracy: 0.87
+number of true positives: 611
+number of false positives: 228
+number of true negatives: 8815
+number of false negatives: 1146
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 25
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.44
+average precision: 0.71
+average recall: 0.33
+average accuracy: 0.88
+number of true positives: 558
+number of false positives: 224
+number of true negatives: 8896
+number of false negatives: 1122
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 26
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.43
+average precision: 0.71
+average recall: 0.33
+average accuracy: 0.88
+number of true positives: 521
+number of false positives: 212
+number of true negatives: 8989
+number of false negatives: 1078
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 27
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.42
+average precision: 0.68
+average recall: 0.32
+average accuracy: 0.88
+number of true positives: 493
+number of false positives: 219
+number of true negatives: 9034
+number of false negatives: 1054
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 28
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.43
+average precision: 0.71
+average recall: 0.32
+average accuracy: 0.89
+number of true positives: 483
+number of false positives: 214
+number of true negatives: 9097
+number of false negatives: 1006
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 29
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.44
+average precision: 0.72
+average recall: 0.34
+average accuracy: 0.89
+number of true positives: 470
+number of false positives: 197
+number of true negatives: 9187
+number of false negatives: 946
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 30
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.42
+average precision: 0.72
+average recall: 0.32
+average accuracy: 0.9
+number of true positives: 431
+number of false positives: 171
+number of true negatives: 9264
+number of false negatives: 934
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 31
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.41
+average precision: 0.72
+average recall: 0.31
+average accuracy: 0.9
+number of true positives: 409
+number of false positives: 171
+number of true negatives: 9300
+number of false negatives: 920
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 32
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.41
+average precision: 0.73
+average recall: 0.31
+average accuracy: 0.9
+number of true positives: 400
+number of false positives: 154
+number of true negatives: 9361
+number of false negatives: 885
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 33
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.39
+average precision: 0.72
+average recall: 0.29
+average accuracy: 0.91
+number of true positives: 367
+number of false positives: 147
+number of true negatives: 9414
+number of false negatives: 872
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 34
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.39
+average precision: 0.68
+average recall: 0.29
+average accuracy: 0.91
+number of true positives: 354
+number of false positives: 137
+number of true negatives: 9458
+number of false negatives: 851
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 35
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.39
+average precision: 0.67
+average recall: 0.29
+average accuracy: 0.91
+number of true positives: 345
+number of false positives: 137
+number of true negatives: 9483
+number of false negatives: 835
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 36
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.39
+average precision: 0.74
+average recall: 0.29
+average accuracy: 0.91
+number of true positives: 341
+number of false positives: 123
+number of true negatives: 9524
+number of false negatives: 812
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 37
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.37
+average precision: 0.69
+average recall: 0.27
+average accuracy: 0.91
+number of true positives: 310
+number of false positives: 111
+number of true negatives: 9566
+number of false negatives: 813
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 38
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.36
+average precision: 0.65
+average recall: 0.27
+average accuracy: 0.92
+number of true positives: 297
+number of false positives: 122
+number of true negatives: 9587
+number of false negatives: 794
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 39
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.39
+average precision: 0.71
+average recall: 0.28
+average accuracy: 0.92
+number of true positives: 304
+number of false positives: 97
+number of true negatives: 9642
+number of false negatives: 757
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 40
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.37
+average precision: 0.7
+average recall: 0.27
+average accuracy: 0.92
+number of true positives: 287
+number of false positives: 94
+number of true negatives: 9666
+number of false negatives: 753
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 41
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.38
+average precision: 0.68
+average recall: 0.28
+average accuracy: 0.92
+number of true positives: 283
+number of false positives: 93
+number of true negatives: 9687
+number of false negatives: 737
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 42
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.37
+average precision: 0.71
+average recall: 0.27
+average accuracy: 0.92
+number of true positives: 271
+number of false positives: 90
+number of true negatives: 9714
+number of false negatives: 725
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 43
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.36
+average precision: 0.68
+average recall: 0.27
+average accuracy: 0.93
+number of true positives: 263
+number of false positives: 99
+number of true negatives: 9730
+number of false negatives: 708
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 44
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.36
+average precision: 0.72
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 247
+number of false positives: 85
+number of true negatives: 9760
+number of false negatives: 708
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 45
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.34
+average precision: 0.73
+average recall: 0.25
+average accuracy: 0.93
+number of true positives: 237
+number of false positives: 93
+number of true negatives: 9768
+number of false negatives: 702
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 46
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.37
+average precision: 0.72
+average recall: 0.27
+average accuracy: 0.93
+number of true positives: 247
+number of false positives: 93
+number of true negatives: 9793
+number of false negatives: 667
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 47
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.35
+average precision: 0.66
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 230
+number of false positives: 82
+number of true negatives: 9820
+number of false negatives: 668
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 48
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.35
+average precision: 0.66
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 226
+number of false positives: 79
+number of true negatives: 9835
+number of false negatives: 660
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 49
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.35
+average precision: 0.65
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 226
+number of false positives: 81
+number of true negatives: 9846
+number of false negatives: 647
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 50
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.35
+average precision: 0.65
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 221
+number of false positives: 74
+number of true negatives: 9866
+number of false negatives: 639
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 51
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.34
+average precision: 0.63
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 211
+number of false positives: 76
+number of true negatives: 9878
+number of false negatives: 635
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 52
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.34
+average precision: 0.66
+average recall: 0.26
+average accuracy: 0.93
+number of true positives: 201
+number of false positives: 79
+number of true negatives: 9886
+number of false negatives: 634
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 53
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.34
+average precision: 0.65
+average recall: 0.26
+average accuracy: 0.94
+number of true positives: 204
+number of false positives: 78
+number of true negatives: 9902
+number of false negatives: 616
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 54
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.33
+average precision: 0.64
+average recall: 0.25
+average accuracy: 0.94
+number of true positives: 192
+number of false positives: 74
+number of true negatives: 9924
+number of false negatives: 610
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 55
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.34
+average precision: 0.65
+average recall: 0.25
+average accuracy: 0.94
+number of true positives: 194
+number of false positives: 71
+number of true negatives: 9940
+number of false negatives: 595
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 56
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.32
+average precision: 0.57
+average recall: 0.25
+average accuracy: 0.94
+number of true positives: 187
+number of false positives: 91
+number of true negatives: 9930
+number of false negatives: 592
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 57
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.33
+average precision: 0.61
+average recall: 0.25
+average accuracy: 0.94
+number of true positives: 182
+number of false positives: 72
+number of true negatives: 9971
+number of false negatives: 575
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 58
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.31
+average precision: 0.59
+average recall: 0.23
+average accuracy: 0.94
+number of true positives: 161
+number of false positives: 72
+number of true negatives: 9993
+number of false negatives: 574
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 59
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.31
+average precision: 0.61
+average recall: 0.23
+average accuracy: 0.94
+number of true positives: 161
+number of false positives: 67
+number of true negatives: 10013
+number of false negatives: 559
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 60
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.3
+average precision: 0.62
+average recall: 0.22
+average accuracy: 0.94
+number of true positives: 151
+number of false positives: 59
+number of true negatives: 10032
+number of false negatives: 558
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 61
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.29
+average precision: 0.62
+average recall: 0.22
+average accuracy: 0.94
+number of true positives: 148
+number of false positives: 66
+number of true negatives: 10033
+number of false negatives: 553
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 62
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.3
+average precision: 0.61
+average recall: 0.22
+average accuracy: 0.94
+number of true positives: 144
+number of false positives: 59
+number of true negatives: 10051
+number of false negatives: 546
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 63
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.28
+average precision: 0.6
+average recall: 0.2
+average accuracy: 0.94
+number of true positives: 133
+number of false positives: 62
+number of true negatives: 10055
+number of false negatives: 550
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 64
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.29
+average precision: 0.62
+average recall: 0.21
+average accuracy: 0.95
+number of true positives: 141
+number of false positives: 62
+number of true negatives: 10066
+number of false negatives: 531
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 65
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.29
+average precision: 0.62
+average recall: 0.21
+average accuracy: 0.95
+number of true positives: 141
+number of false positives: 60
+number of true negatives: 10073
+number of false negatives: 526
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 66
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.27
+average precision: 0.62
+average recall: 0.2
+average accuracy: 0.95
+number of true positives: 121
+number of false positives: 50
+number of true negatives: 10097
+number of false negatives: 532
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 67
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.24
+average precision: 0.6
+average recall: 0.17
+average accuracy: 0.94
+number of true positives: 110
+number of false positives: 55
+number of true negatives: 10096
+number of false negatives: 539
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 68
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.28
+average precision: 0.53
+average recall: 0.2
+average accuracy: 0.95
+number of true positives: 116
+number of false positives: 42
+number of true negatives: 10129
+number of false negatives: 513
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 69
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.24
+average precision: 0.61
+average recall: 0.17
+average accuracy: 0.95
+number of true positives: 102
+number of false positives: 44
+number of true negatives: 10136
+number of false negatives: 518
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 70
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.25
+average precision: 0.62
+average recall: 0.18
+average accuracy: 0.95
+number of true positives: 108
+number of false positives: 43
+number of true negatives: 10142
+number of false negatives: 507
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 71
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.26
+average precision: 0.65
+average recall: 0.18
+average accuracy: 0.95
+number of true positives: 107
+number of false positives: 42
+number of true negatives: 10146
+number of false negatives: 505
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 72
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.23
+average precision: 0.52
+average recall: 0.16
+average accuracy: 0.95
+number of true positives: 100
+number of false positives: 54
+number of true negatives: 10142
+number of false negatives: 504
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 73
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.24
+average precision: 0.52
+average recall: 0.17
+average accuracy: 0.95
+number of true positives: 103
+number of false positives: 49
+number of true negatives: 10152
+number of false negatives: 496
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 74
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.25
+average precision: 0.54
+average recall: 0.18
+average accuracy: 0.95
+number of true positives: 108
+number of false positives: 50
+number of true negatives: 10160
+number of false negatives: 482
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 75
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.21
+average precision: 0.57
+average recall: 0.14
+average accuracy: 0.95
+number of true positives: 84
+number of false positives: 46
+number of true negatives: 10177
+number of false negatives: 493
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 76
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.19
+average precision: 0.49
+average recall: 0.13
+average accuracy: 0.95
+number of true positives: 77
+number of false positives: 43
+number of true negatives: 10196
+number of false negatives: 484
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 77
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.21
+average precision: 0.63
+average recall: 0.14
+average accuracy: 0.95
+number of true positives: 81
+number of false positives: 39
+number of true negatives: 10210
+number of false negatives: 470
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 78
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.21
+average precision: 0.54
+average recall: 0.14
+average accuracy: 0.95
+number of true positives: 79
+number of false positives: 38
+number of true negatives: 10217
+number of false negatives: 466
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 79
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.19
+average precision: 0.5
+average recall: 0.13
+average accuracy: 0.95
+number of true positives: 72
+number of false positives: 37
+number of true negatives: 10223
+number of false negatives: 468
+================================================
+
+==============================END==============================
+==============================START==============================
+Preprocess data...
+Compute features...
+smell_thr: 1
+Use new model!
+Use model RandomForestClassifier()
+Perform cross-validation, please wait...
+
+================================================
+average f1-score: 0.82
+average precision: 0.77
+average recall: 0.88
+average accuracy: 0.72
+number of true positives: 7139
+number of false positives: 2033
+number of true negatives: 674
+number of false negatives: 954
+================================================
+
+==============================END==============================
