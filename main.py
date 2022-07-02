@@ -263,7 +263,7 @@ Is threshold 40 (sum of smell ratings) good for defining a smell event?
 Specifically, can you figure out a better (while also reasonable) threshold?
 You can play with the "smell_thr" parameter and see how it affects model performance.
 
-Is it possible that we can predict the smell events more precisely?
+Is it possible that we can predict the smell events more precisely??
 Specifically, can you figure out if we can predict smell events in a shorter future?
 You can play with the "smell_predict_hrs" parameter and see how it affects model performance.
 
