@@ -259,7 +259,7 @@ If you forgot what is a DataFrame, check the following URL:
 
 Now, here are several questions for you, indicated below:
 
-Is threshold 40 (sum of smell ratings) good for defining a smell event?
+Is threshold 40 (sum of smell ratings) good for defining a smell event??
 Specifically, can you figure out a better (while also reasonable) threshold?
 You can play with the "smell_thr" parameter and see how it affects model performance.
 
