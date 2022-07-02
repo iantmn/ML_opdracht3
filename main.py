@@ -1,3 +1,16 @@
+from util import computeFeatureImportance
+from sklearn.svm import SVC
+from sklearn.model_selection import cross_validate
+from sklearn.linear_model import SGDClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
+from util import createSplits
+from util import printScores
+from util import scorer
+from computeFeatures import computeFeatures
+from preprocessData import preprocessData
+import logging
+from joblib import load, dump
 import time
 start_time = time.time()
 
@@ -6,7 +19,6 @@ start_time = time.time()
 #print_file = "/root/code/ML_groepopdracht3/log/results_final.txt"
 #sys.stdout = open(print_file, "a")
 
-from joblib import load, dump
 
 """
 This script contains the pipeline for predicting the presence of bad smell.
@@ -42,8 +54,8 @@ The following is a brief description of the pipeline:
 
 print("==============================START==============================")
 
-import logging
-logging.basicConfig(filename='/root/code/ML_groepopdracht3/log/log.log', filemode='a', format='[%(levelname)s] | %(asctime)s | %(filename)s:%(lineno)d | %(message)s', datefmt='%H:%M:%S %d-%b-%y', level=logging.NOTSET)
+logging.basicConfig(filename='/root/code/ML_groepopdracht3/log/log.log', filemode='a',
+                    format='[%(levelname)s] | %(asctime)s | %(filename)s:%(lineno)d | %(message)s', datefmt='%H:%M:%S %d-%b-%y', level=logging.NOTSET)
 logging.warning("START PROGRAM")
 
 
@@ -145,11 +157,11 @@ More information about the data structure is in the following URL:
 """
 # Import the "preprocessData" function in the "preprocessData.py" script for reuse
 # (no need to modify this part)
-from preprocessData import preprocessData
 
 # Preprocess and print sensor and smell data
 # (no need to modify this part)
-df_sensor, df_smell = preprocessData(in_p=["/root/code/ML_groepopdracht3/dataset/esdr_raw/","/root/code/ML_groepopdracht3/dataset/smell_raw.csv"])
+df_sensor, df_smell = preprocessData(
+    in_p=["/root/code/ML_groepopdracht3/dataset/esdr_raw/", "/root/code/ML_groepopdracht3/dataset/smell_raw.csv"])
 pretty_print(df_sensor, "Display all sensor data and column names")
 pretty_print(df_smell, "Display smell data and column names")
 
@@ -186,11 +198,11 @@ Does using more variables help increase model performance?
 # Select some variables, which means the columns in the data table.
 # (you may want to modify this part to add more variables for experiments)
 # (you can also comment out the following two lines to indicate that you want all variables)
-wanted_cols = ["DateTime", 
-               "3.feed_28.H2S_PPM", 
-               "3.feed_11067.SONICWD_DEG..3.feed_43.SONICWD_DEG", #KOST VEEL TIJD??
-               "3.feed_26.SONICWD_DEG", 
-               "3.feed_28.SONICWD_DEG", 
+wanted_cols = ["DateTime",
+               "3.feed_28.H2S_PPM",
+               "3.feed_11067.SONICWD_DEG..3.feed_43.SONICWD_DEG",  # KOST VEEL TIJD??
+               "3.feed_26.SONICWD_DEG",
+               "3.feed_28.SONICWD_DEG",
                "3.feed_28.SONICWS_MPH",
                "3.feed_11067.NO2_PPB..3.feed_43.NO2_PPB",
                "3.feed_28.SO2_PPM"]
@@ -273,7 +285,6 @@ You can play with the "look_back_hrs" parameter and see how it affects model per
 """
 # Import the "computeFeatures" function in the "computeFeatures.py" script for reuse
 # (no need to modify this part)
-from computeFeatures import computeFeatures
 
 # Indicate the threshold to define a smell event
 # (you may want to modify this parameter for experiments)
@@ -293,7 +304,7 @@ add_inter = False
 # Compute and print features (X) and response (Y)
 # (no need to modify this part)
 df_X, df_Y, _ = computeFeatures(df_esdr=df_sensor, df_smell=df_smell,
-        f_hr=smell_predict_hrs, b_hr=look_back_hrs, thr=smell_thr, add_inter=add_inter)
+                                f_hr=smell_predict_hrs, b_hr=look_back_hrs, thr=smell_thr, add_inter=add_inter)
 pretty_print(df_X, "Display features (X) and column names")
 pretty_print(df_Y, "Display response (Y) and column names")
 
@@ -340,15 +351,7 @@ You can play with the "test_size" parameter and see how it affects model perform
 """
 # Import packages for reuse
 # (you may want to import more models)
-from util import scorer
-from util import printScores
-from util import createSplits
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import SGDClassifier
-from sklearn.model_selection import cross_validate
 
-from sklearn.svm import SVC
 
 # Indicate how much data you want to use to test the model
 # (you may want to modify this parameter for experiments)
@@ -417,12 +420,12 @@ So in this step, we will use the Random Forest model to compute featute importan
 """
 # Import packages for reuse
 # (no need to modify this part)
-from util import computeFeatureImportance
 
 # Compute and show feature importance weights
 # (no need to modify this part)
 feature_importance = computeFeatureImportance(df_X, df_Y, scoring="f1")
-pretty_print(feature_importance, "Display feature importance based on f1-score")
+pretty_print(feature_importance,
+             "Display feature importance based on f1-score")
 
 #dump(model, f"/root/code/ML_groepopdracht3/{model_name}.joblib")
 
